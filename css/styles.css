@@ -4,6 +4,7 @@ p {
     }
 
 h1 {
+<<<<<<< HEAD
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     font-size: 0.75em;
     }
@@ -30,4 +31,16 @@ h3.enhanced {
 }
 .typewriter {
     font-family: "Courier New", Courier, monospace;
+=======
+    font-family: "Trebuchet MS", Helvetica, sansserif;
+    font-size: 2em;
+    }
+
+p.important {
+    font-size: 1.4em;
+    }
+
+.portal {
+    font-size: .8em;
+>>>>>>> 13ca1c89f380522b29d6d7c1a0a949202a070947
 }
